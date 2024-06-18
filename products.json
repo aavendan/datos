@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "baked beans",
+    "price" : 0.40,
+    "src" : "https://raw.githubusercontent.com/Bootcamp-Espol/Datos/main/img/beans.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "hot dogs",
+    "price" : 1.99,
+    "src" : "https://raw.githubusercontent.com/Bootcamp-Espol/Datos/main/img/hotdogs.jpg",
+    "type" : "meat"
+  },
+  {
+    "name" : "spam",
+    "price" : 2.85,
+    "src" : "https://raw.githubusercontent.com/Bootcamp-Espol/Datos/main/img/spam.jpg",
+    "type" : "meat"
+  },
+  {
+    "name" : "refried beans",
+    "price" : 0.99,
+    "src" : "https://raw.githubusercontent.com/Bootcamp-Espol/Datos/main/img/refried.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "kidney beans",
+    "price" : 0.58,
+    "src" : "https://raw.githubusercontent.com/Bootcamp-Espol/Datos/main/img/kidney.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "garden peas",
+    "price" : 0.52,
+    "src" : "https://raw.githubusercontent.com/Bootcamp-Espol/Datos/main/img/gardenpeas.jpg",
+    "type" : "vegetables"
+  }
+]
