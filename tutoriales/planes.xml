@@ -8,13 +8,13 @@
  </item>
  <item>
      <title>Suscripción</title>
-     <subtitle>&lt;100 Gb</subtitle>
+     <subtitle> < 100 Gb</subtitle>
      <intro>Las promociones tipo "Suscripción" están orientadas a ofrecer un acceso continuo a servicios o productos mediante el pago de una cuota recurrente, que puede ser mensual, trimestral o anual.</intro>
      <description>Este tipo de promoción es común en servicios digitales como plataformas de streaming, software, y publicaciones, así como en clubes o programas de membresía.</description>
  </item>
  <item>
      <title>Ilimitado</title>
-     <subtitle>&gt;100 Gb</subtitle>
+     <subtitle> > 100 Gb</subtitle>
      <intro>La promoción "Ilimitado" se caracteriza por ofrecer acceso sin restricciones a los servicios incluidos, como datos móviles, minutos de llamada, o acceso a plataformas de streaming.</intro>
      <description>Este tipo de promoción está diseñada para usuarios que tienen un alto consumo y prefieren no preocuparse por los límites mensuales.</description>
  </item>
