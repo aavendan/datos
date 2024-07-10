@@ -1,0 +1,21 @@
+{
+  "provincia": "Guayas",
+  "cantón": "Guayaquil",
+  "parroquias": [
+      {
+        "parroquia": "CARBO/CONCEPCION",
+        "recinto": "UNIDAD EDUCATIVA PARTICULAR JOSE DOMINGO SANTISTEVAN",
+        "electores": 8400,
+      },
+      {
+        "parroquia": "CARBO/CONCEPCION",
+        "recinto": "ESCUELA SUPERIOR POLITECNICA LITORAL ESPOL",
+        "electores": 15400,
+      },
+      {
+        "parroquia": "CARBO/CONCEPCION",
+        "recinto": "ESCUELA FISCAL GONZALO LLONA",
+        "electores": 3500,
+      }
+    ]
+}
