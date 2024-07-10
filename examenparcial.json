@@ -1,0 +1,28 @@
+{
+  "selectorCiudad": "Machala",
+  "selectorZona": "Húmeda muy calurosa",
+  "paredFrontalUV": "5.47",
+  "paredPosteriorUV": "5.57",
+  "Pared": {
+    "posterior": [
+      {
+        "espesor": 0.2,
+        "k": 0.95,
+        "densidad": 1600,
+        "cp": 920
+      },
+      {
+        "espesor": 0.1,
+        "k": 0.95,
+        "densidad": 1600,
+        "cp": 920
+      },
+      {
+        "espesor": 0.3,
+        "k": 0.95,
+        "densidad": 1600,
+        "cp": 920
+      }
+    ]
+  }
+}
