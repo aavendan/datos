@@ -3,23 +3,23 @@
 		"fecha": "Domingo, 2 de abril de 2023",
 		"lista": [
 			{
-				"cantidad": "2", 
+				"cantidad": "2",
 				"nombre": "bandejas de caderas Mr Pollo"
 			},
 			{
-				"cantidad": "2", 
+				"cantidad": "2",
 				"nombre": "bandejas de pechugas Mr Pollo"
 			},
 			{
-				"cantidad": "2", 
+				"cantidad": "2",
 				"nombre": "bandejas de filete de pescado"
 			},
 			{
-				"cantidad": "1", 
+				"cantidad": "1",
 				"nombre": "funda de sal prieta"
 			},
 			{
-				"cantidad": "1", 
+				"cantidad": "1",
 				"nombre": "queso deslactosado La holandesa"
 			},
 			{
@@ -40,38 +40,38 @@
 			},
 			{
 				"cantidad": "1", 
-				"nombre": "funda de papas chola",
+				"nombre": "funda de papas chola"
 			},
 			{
 				"cantidad": "2", 
-				"nombre": "cajas de té de manzanilla",
+				"nombre": "cajas de té de manzanilla"
 			},
 			{
 				"cantidad": "2",
-				"nombre": "cajas de té de menta",
-			},
-			{
-				"cantidad": "1", 
-				"nombre": "sachet de pasta de maní",
-			},
-			{
-				"cantidad": "1", 
-				"nombre": "cubeta de huevos",
-			},
-			{
-				"cantidad": "2", 
-				"nombre": "paquetes  de papel higiénico blanco familia de 12 rollos",
+				"nombre": "cajas de té de menta"
 			},
 			{
 				"cantidad": "1",
-				"nombre": "talco Johnson grande",
+				"nombre": "sachet de pasta de maní"
 			},
 			{
-				"cantidad": "1", 
-				"nombre": "detergente de ropa axion",
+				"cantidad": "1",
+				"nombre": "cubeta de huevos"
 			},
 			{
-				"cantidad": "1", 
+				"cantidad": "2",
+				"nombre": "paquetes  de papel higiénico blanco familia de 12 rollos"
+			},
+			{
+				"cantidad": "1",
+				"nombre": "talco Johnson grande"
+			},
+			{
+				"cantidad": "1",
+				"nombre": "detergente de ropa axion"
+			},
+			{
+				"cantidad": "1",
 				"nombre": "enjuague de ropa suavitel",
 			},
 			{
