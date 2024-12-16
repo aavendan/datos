@@ -7,6 +7,8 @@
     },
     {
         "Id": 1,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
         "horario": "",
         "canton": "",
         "sectores": ""
