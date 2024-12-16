@@ -1,0 +1,558 @@
+[
+    {
+        "Id": 0,
+        "horario": "",
+        "canton": "",
+        "sectores": ""
+    },
+    {
+        "Id": 1,
+        "horario": "",
+        "canton": "",
+        "sectores": ""
+    },
+    {
+        "Id": 2,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "09:00 a 11:00",
+        "canton": "PLAYAS",
+        "sectores": "Puente Boyance, El Consuelo, Cristal, San Andrés, MOPISE S.A., Vía La Costa Km 35, hacienda La Mirage, hacienda Nina, Planta Liris. Parroquia San Juan de Rietapai, Consuelo 1, SacosEcuador S.A.,Chiveria, Rancho San Eduardo. Cerecita, San Isidro, Progreso, San Gerónimo, Pocitos, Aguas Verdes, Palo Santo, Santa Rosa, San Cristóbal, Bajada de Chanduy, San José, Bajada de Pobres. Restaurante Chi Cha RRón, Portal al Sol, Gasolinera Primax Progreso, Unidad Educativa Pablo Weber Cubillo, Juan GómezRendón, Recinto Safando INTERAGUA San Lorenzo, Escuela Viviana, Sabana Grande, Puerto Sabana Grande, Campamento Navarone. Caimito, Gómez Rendón, Olmedo, San Lorenzo, Puente Olmedo, Parque San Lorenzo, Villa Isabela. Vital-Carbonato de Calcio, GEA Ing. Becerra, Finca la Piqueñosa."
+    },
+    {
+        "Id": 3,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "01:00 a 03:00",
+        "canton": "PLAYAS",
+        "sectores": "APNR El Guayacán, Vía a la Costa km. 30. La Costa Country Club, Aeroparque Los Rebeldes, Las Nubes- Estación de bombeo Daular 1, Hacienda Victoria, subestación CNEL EP Cerecita, Avícola Fernández, Durexporta, Daular. Vía Provincial Playas-Puerto del Morro, San Vicente, Balcón del Pacifico, La Concordia, Central, Santa Martha, San Antonio, 9 de Marzo,Lindo, Los Angelitos, Santa Isabel, San Jacinto, Esteros,La Planta. Lotización Sol y Mar, Altamira, Lotización Mar Azul 2, Caracol, Playas 2, Urbanización Acapulco. Lotización Azul Marina, parcelación La Curva, Lotización Sol y Mar 2, Caritas, 26 de Marzo, La Dolorosa. Avenida 3 de Agosto, Avenida del Pacifico,Avenida Jaime RoldósAguilera, AKIPlayas. Municipio de Playas, Cooperativa de transportes Villamil, Avenida 15 de Agosto."
+    },
+    {
+        "Id": 4,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "01:00 a 03:00",
+        "canton": "PLAYAS",
+        "sectores": "Parque San Antonio, Venus de Valdivia escultura en San Antonio. Peaje Playas. Urbanización SolDorado,Grupo de Caballería Mecanizado # 16 Saraguro.Centro de Salud San Antonio. Las Acacias Mopise S.A. Finca Dorado del Mar, Finca La Claudina, Barrio Lindo, Estadio de la Liga Cantonal de Playas. Hotel Estrella de Mar, Villa Brisas del Mar, Habitaciones My House, Rest Juan Ostras, Rest La Casa de Fortunato. Gasolinera Primax Playas, Hostal Las Olas, Parque Altamira, Barrio Guayaquil, La Concordia, La Planta, Santa Isabel, Altamira. Avenida Pedro Menéndez Gilbert desde Avenida 22 hasta Calle 3 de Agosto."
+    },
+    {
+        "Id": 5,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "01:00 a 03:00",
+        "canton": "PLAYAS",
+        "sectores": "Playas Villamil Ocean View, Condominio Punta Mar, Playas RB&BM, Casa Playas 2, Hotel Arena Caliente. Centro Comercial Paseo Shopping Playas, Casa de Huéspedes Playa Arena, Tibetapati Lote-B, Tibetapati Lote-C. Lotización Cascol, Urbanización Shangrila, Ciudadela Victoria, Ciudadela Marbella. Venecia, Cuba, San Cayetano, Central, San Pedro, Esteros, San Jacinto, 26 de Marzo, Caritas, Caracol, Playas 2."
+    },
+    {
+        "Id": 6,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "01:00 a 03:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calle Padre Aguirre desde Ximena hasta Córdova Calle Rocafuerte hasta avenida 9 de Octubre. Pichincha y Elizalde. Calles Boyacá, Manuel Galecio, Loja, Roca. Malecón Simón Bolívar, parte baja del Cerro del Carmen, calle Panamá, Av. 9 de Octubre. Clemente Ballén desde Asisclo Garay hasta Tungurahua. Luque desde Tungurahua hasta Avenida Quito. Hurtado desde Avenida del Ejército hasta Avenida Quito. Primero de Mayo desde Avenida del Ejército hasta Machala, calle Vélez Avenida Del Bomberodesde Petroecuador hasta Avenida Carlos Julio Arosemena. Los Cedros, Los Senderos, Los Ceibos (mz. 1 a 26; 118; 119), Monte Carlos, BimBam Bum. Avenida Martha Bucaram de Roldós,Avenida Primeray Segunda de Mapasingue."
+    },
+    {
+        "Id": 7,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "01:00 a 03:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calles Mejía, General Gómez. Chile desde Argentina hasta Vicente Maldonado. Colón, Pedro Carbo, Olmedo, Malecón SimónBolívar, Argentina, Maldonado. Chimborazo desde Francisco de Marcos hasta Manabí. Calle Huancavilca. Avenida Quito, Ayacucho. Venezuela desde Guaranda hasta 5 de Junio. Calle Villavicencio. Rumichaca desde General Gómezhasta FrancoDávila. Calles Lorenzo Garaycoa, Pedro Moncayo Noguchi desde García Goyena hasta General Gómez. Seis de Marzo hasta Cacique Álvarez. Calles Argentina, Letamendi. Libertad, Dique Amazonas, Pradera 1, Los Esteros (mz. 8A, 9A, 11A, 10A, 390, 416). Bloques de Valdivia, parte de Cooperativa Jaime Roldós (Fertisa- mz. 1613; 1617, 1618, 1619, 1622, 1625, 1632). Coviem (mz. 7 a 11). Ciudadela Santa Mónica (mz. 1551 a 1561; 1569 a 1582; 1591, 1592). Cooperativa 7 Lagos (mz. 1401, 1402), Las Terrazas, Justicia y Libertad, Libertad y Conciencia. IESS Centro médico SurValdivia"
+    },
+    {
+        "Id": 8,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "01:00 a 03:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Kennedy Norte (mz. 11, 12, 22, 23, 24, 27). Kennedy Norte2 (mz. 74; 76 a 79; y 81). Albatros, Los Álamos2 (mz. 130 a 135 por calle Roberto Mata y Carlos Plaza Dañin). Parte de Aeropuerto, FAE, sector norte de La Atarazana. Ciudadelas Garzota 6, Garzota 7 (mz. 138, 150, 157, 159, 163, 165, 166, 195, 197, 200). Ciudadelas Luis Vernaza (mz. 3 a 6; 11 y 12), Simón Bolívar (mz. 15 a 25)."
+    },
+    {
+        "Id": 9,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "14:00 a 16:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Bastión Popular bloques 6, 7A, 7B, 8, 9, 10, 11. Mucho Lote 2. Vía a Daule km. 12.5 hasta 14.5. Vía Daule hasta Pascuales por calle Latacunga (Avenida Cenáculo), Cooperativa Carlos Guevara Moreno. Urbanización Las Orquídeas 1, 2A y 2 Calle entre las ciudadelas Valencia y Barcelona (vira a la izquierda) sigue por calle que divide ciudadelas Barcelona y Sevilla entre Las Ciudadela Villa España, Madrid y Mallorca hasta el Centro Comercial Villa España. Mucho Lote 2. Bastión Popular 10D, Bastión Popular 10 (mz. 1196 a 1204; 1184; 1213, 1246, 1254, 1255, 1256, 1279, 1280). Canchas Municipales, cruza a Pascuales por la calle Limoncocha. Cooperativas Unión de Belén lámina 1, Assad Bucaram1 y 2 (Pascuales), Unidos Venceremos 2."
+    },
+    {
+        "Id": 10,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "14:00 a 16:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calle Joya de los Sachas, avanza por la calle Portoviejo, la principal de Pascuales calle Montecristi hasta la Vía a Daule. Cooperativas Brisas Pascuales, 21 Noviembre, 2 Noviembre, En Pie de Lucha, Los Manguitos, Camino al Jordán. Pascuales (mz. 115, 116; 124 a 128; 130 a 133). Lucha y Progreso, Los Tamarindos, Barrio Lindo, Brisas de Pascuales."
+    },
+    {
+        "Id": 11,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "14:00 a 16:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Mucho Lote, Ciudadelas Valencia, Málaga. Pascuales por la calle Paján cruza la calle Joya de los Sachas y Montecristi. Cooperativas San José, Assad Bucaram 3, San Francisco (Pascuales). Pascuales (mz. 134 a 148, 163), Vicente León, San Nicolás, Vilcabamba."
+    },
+    {
+        "Id": 12,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "20:00 a 22:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas 3 de Septiembre bloque 6A (mz. 192, 193, 196, 197), Los Ranchos, La Muralla, Los Helechos, Los Ranchos 1. Voluntad de Dios,Voluntad de Dios 2, Santa Teresa 2. Mucho Lote 1, Mucho Lote 3 (mz. 2339 a 2348), Valencia (mz 2336), Mucho Lote 2 (mz. 2235). Avenida Isidro Ayora. Calle entre las ciudadelas Barcelona y Madrid. Calle entre las ciudadelas Sevilla y Mallorca. Villa Alegría. Mucho Lote etapas 3, 4, 5 y 6."
+    },
+    {
+        "Id": 13,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "20:00 a 22:00",
+        "canton": "PLAYAS",
+        "sectores": "Banco Pichincha, Empresa Eléctrica, CAPPSO, TIA, Registro Civil, Parque multideportivo 24 de Mayo, Mercado Municipal de Mariscos,Mirador turístico, Hostal Puná, Nirsa S.A.,Las Cruces parque. Puerto de Aguas Profundas, Cementerio, Colegio Luis Chiriboga M., CAMI Posorja, Hostal Rey Sol, Casa Paquito, Iglesia lugar de Sacrificio,BarrioQuito, Parque Bellavista. DISENSA Data de Posorja, Vía Data de Posorja, Barrio San José, Lotización Pájaro Azul, Victoria Ocean Millavilsa, Eucalipto, Orquídeas, Flota pesquera Ávila, Iglesia Adventista del Séptimo Día, Hotel León, Comercial Posorja. Calle Juan del Valle, Calle 1, Avenida 3, Calle 10, Barrio San José, Estadio de Posorja, Parque de la Alborada, Supermercado Génesis, Hostería Jedidias"
+    },
+    {
+        "Id": 14,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "15:00 a 17:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Urbanizaciones Victoria Club, Alameda del Río. Ciudadelas Plaza Victoria, Valle Victoria, Horizonte Dorado. Subestación Mucho Lote. Ciudadela Segovia, Ciudadela Victoria del Río. Mucho Lote 2 etapa 3, Ciudadela Paraíso Del Río 1 y 2. Autopista Terminal Terrestre, Avenida Francisco de Orellana. Urbanización Veranda, Urbanizaciones Ciudad del Río 2, Metrópolis 1 y 2, Ciudad del Río (Magisterio). Ciudadela Colinas del Maestro, Villa España (mz. 2170, 2210, 2218, 2226, 2233, 2239, 2244, 2267, 2277, 2669). La Perla 1 al 3. Narcisa Plaza. Romareda etapas 1 al 5. Jardines del Río 1. Por Autopista Terminal Terrestre desde subestación Mucho Lote hasta Guayacanes 5 mz. 582. Cooperativas Valle los Geranios, Cerro Colorado. Los Vergeles 2 (mz. 32 a 36; 1437, 1438, 1439 ). Los Vergeles 4, 8 y 10. María Rubio (mz. 36 a 39). Parque Samanes."
+    },
+    {
+        "Id": 15,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "15:00 a 17:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Avenida Francisco de Orellana desde calle Carlos Julio Arosemena Monroy hasta Senderos Parque Samanes. Importadora Velasco, NP Hotel y Suites, Gasolinera Al Paso, Polideportivo Los Vergeles. Los Vergeles 7A y 7B, Trébol 2 (mz. 122 a 124; 132 a 135; 153). Los Vergeles 1, 2, y 6, Maria Rubio. Lotización Cerro Colorado. Avenida Francisco de Orellana, Vergeles (mz. 209, 210, 211; 219 a 222). Ciudadelas Orquídeas 1 y 3, Geranios 1 y 2. Mall del Norte. Avenida Principal hasta el Fuerte Militar Huancavilca, Lotización Cerro Colorado. Cooperativas Bastión Popular bloque 1B, Luz del Guayas, Bastión Chiquito, Bastión Mediano, Unión libre, Luz del Guayas."
+    },
+    {
+        "Id": 16,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "15:00 a 17:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Desde la calle 23 A N-Ohasta la calle SN. Bastión Popular bloques I, III, IV y V. Cooperativas Nueva Esperanza, 8 de Mayo, Emérita Valencia. Barrio los Vergeles. Ciudadelas Bosques de los Ceibos, Campus ESPOL, Las Cumbres, Santa Cecilia. Los Ceibos, Colinas de Los Ceibos, Los Olivos, Urbanización Olimpus, Parques de Los Ceibos, San Nicolás. Mapasingue Oeste: Avenidas 3ra, 4ta, 5ta y 6ta. Mapasingue Este: Avenidas 3ra, 4ta y 5ta. Cooperativa 13 de Junio, Kimberly Clark. Cooperativas 7 de Septiembre, Unión Paz y Progreso, Unidos Venceremos, Colinas de Mapasingue 1, El Cerro (mz. 72, 73; 76 a 84; 87 a 93)."
+    },
+    {
+        "Id": 17,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "15:00 a 17:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Colinas del Hipódromo (mz. 1), Torres del Jardín, Mapasingue 2, Colinas del Valle, El Cerro (mz. 56 a 76). Cooperativas 13 de Junio (mz. 85), Los Ángeles, 27 de Enero, Mapasingue (BEV), Las Cumbres mz. (834), Primero de Mayo A,Tercer callejón 17 NO, Avenida Séptima, Santa Priscila S.A. Ciudadela Ceibos Norte,Palermo,Las Cumbres (mz. 805 a 816; 826, 830, 832)"
+    },
+    {
+        "Id": 18,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "00:00 a 02:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Terrenova 4, 9. Bonavila 1, 3A Pascuales calle Río Daule. Avenida Gustavo Noboa Bejarano desde Via a Daule a subestación Mi Lote. Calle 19, por sector cerveceria nacional Bonavila 2, 3B, 4, 5. Mi Lote 1, 2, 3, 4, 5, 6, 7. Avenida Rosavin Productos Químicos, Graiman, Pilco S.A,Eecol Electric Ecuador. Calle Beta desde la calle Gamma hasta la calle 23B NO. Graiman, Electrocable, Papelesa, Alessa. Lotización Inmaconsa 2 calle Mangos desde calle Ciruelos hasta Vía Vachagnon. Calle Tecas desde Vía Vachagnon hasta calle 24B NO. Calle Gamma desde Perimetral hasta Calle Beta. Calle Eucalipto desde Perimetral hasta Calle las Tablas. Quimasa Guayaquil, Iglesia de Jesucristo, Plastimet S.A, Dinatex, Tiosa S.A, Supan Bimbo, Alpatrans, Distrisel, Provequm Guayaquil, Distrina S.A,Intercean Line, Empacrusa, Incable, Grúas Villalva."
+    },
+    {
+        "Id": 19,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "00:00 a 02:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Lotización Los Ranchos (mz. 75; 81 a 84). Cooperativas 13 de Septiembre bloque 6A (mz. 194, 195, 197, 198, 199), Los Jasmines, 15 de Septiembre, 22 de Septiembre bloque 6A. Urbanización Colinas del Sol.Vía Perimetral desde km. 12 a km. 12.5. Ecuasal, Templo Mormón. Km.12.5 a km. 14.5 Vía a Daule (acera Oeste). Ciudadelas Loma Vista, Montebello, El Caracol. Vía Perimetral, Siemens, Osram,Galavsa. La Rotaria,Mercado de Transferencia, Totori, Las Palmas, Colinas de Montebello. Lotización Inmaconsa (calle Beta desde calle 24B NO hasta calle Eucalipto). Los Cedros desde Crotos hasta La Casuarina. Cooperativa AsociaciónSimón Bolívar. Registro Civil, Agencia de Peca, Quimicamp, Canchón de la C.T.G, Sumesa, Maquinaria Industrial Guayas, Grupasa, Indurama. Colegio Leónidas García, Pinturas S.A, Laboratorio Galo Franco, Magreb S.A., Ecuaquímica, Comisión de Tránsito, Sumesa S.A."
+    },
+    {
+        "Id": 20,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "12:00 a 14:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Hotel Marriot, Centro Comercial San Marino Shopping. Banco Pichincha (Justino Cornejo), Edificio World Trade Center. Ciudad Colón, La Herradura, Kennedy 9 (mz. 160), Kennedy Norte10 (mz. 1006, 1007, 1011). Edificio Tracklin, UEB Interamericano, Fasinarm, Parque Orellana, Centro Comercial Dicentro junto a Urdenor. Bosques del Salado, Conauto, Urdenor 2 (mz 239 a 245, y 1214). Ciudadela Kennedy Norte 3. Kennedy Norte 4 (hasta Avenida Miguel H. Alcívar y Avenida Guillermo Pareja Rolando). Kennedy Norte 5 (mz. 68; 502 a 506). Kennedy Norte(mz. 12, 18, 305, 313 y 315). Cooperativa Vivienda Guayaquil (mz. 1 a 4; 10 a 12, 23). Archivo Histórico del Guayas, DHL Express, parte de Aeropuerto."
+    },
+    {
+        "Id": 21,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "12:00 a 14:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Condominio Los Jardines, Ciudadela Kennedy Norte2, Kennedy Norte3 (mz. 82 a 85). Kennedy Norte 5. Velasco Ibarra, Unión y Progreso,Centropolis. Ciudadela Guayaquil hasta la calle Miguel H. Alcívar entre Carlos Luis Plaza Dañin y calle Segunda. Colina de Urdenor (mz. 567). Cordillera del Cóndor (mz. 168, 170). Urbanor, Paz y Amor. Parte de Urdesa Norte,Lomas de Urdesa (sector este), Condominio Los Jardines (sector oeste). Urdesa calle BálsamosNorte. Sagrada Familia (Plaza Dañin), Modelo, Albatros (mz. 36). Ciudadela Kennedy Vieja (mz. 27 a 32), Kennedy (mz. 2, 4, 7, 8, 9, 20 y 22). Parte de Urdesa (Víctor Emilio Estrada y Miguel Aspiazu hasta Antonio Sánchez, Dátiles y calle Primera. Bálsamos y Circunvalación Nortehasta Paseo 11B NO)."
+    },
+    {
+        "Id": 22,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "12:00 a 14:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Liceo Cristiano, Urdenor II (mz. 201 a 240), Universidad de Guayaquil (Facultad de Filosofía). Escuela Mariscal Sucre, Disensa de la Avenida Juan Tanca Marengo, Alborada 6 (mz. 603 a 619, 620A y 620B)."
+    },
+    {
+        "Id": 23,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "08:00 a 10:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Alborada 8 (mz. 378, 850, 851), sector norte Alborada 9, Alborada 11 (mz. 11-13; 11-35 a 11-46; 11-22 y 11- 29). Sauces 9 (mz. 1756 a 1763; 2050, 2051; 2072 a 2082; 2085 a 2092; 2101 a 2110; 2451). Urdenor 1, La Herradura,IETEL, Altamira, Villa Sol. Sector este de Garzota I-II. Alborada 1 (mz. 1 por la calle 16NE a 27; y 35). Sauces 1 (mz. 1251 a 1253; 1255 a 1267; 1283 a 1286). Puerta al Cielo 2. Sauces 2 (mz. 1309 a 1364), Sauces 7. Sauces 9 (mz. 1750 a 1753; parte de mz. 2050, 2051 por la calle 17 NE;mz. 2052 a 2071; 2106; 2094) Alborada 9 (mz. 953). Ciudadelas Garzota 1, 2, 4, 5, y 7. Vernaza Norte(mz. 4 a 25)."
+    },
+    {
+        "Id": 24,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "08:00 a 10:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calle G y la 23. La 26ava. hasta la O. San Franciscode Asis, SimónBolívar 1. La 23ava. y Maracaibo. B.E.V., cooperativas 28 de Mayo, Rodrigo Icaza Cornejo, 24 de Agosto, Progreso para el Suburbio, 2 de Agosto, Israel, Rebeldes del Pantano, Buena Esperanza, 7 de Septiembre, 4 de Junio, 23 de Abril, La Puntilla, 2 de Agosto,Nuevos Horizontes (mz. 1293, 1294). Calle C Mocache, El Estero, calle R,40ava. Vicente Ramón Roca,Batallón del Suburbio. Calle 27ava. desde Santa Lucia G hasta calle B. Calle 25ava. desde calle A hasta callejón S. El Estero, calle K desde la 25ava. hasta la 14ava. El Cisne, 4 Ases."
+    },
+    {
+        "Id": 25,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "08:00 a 10:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calle 29, Todo Plan Piloto. Cooperativas 13 de Abril, Mariscal Sucre, Independencia, 22 Julio, 19 de Septiembre, Isidro Ayora, La Laguna, 30 de Abril, Antonio Hanna, Guayaquil por Guayaquil, La Unión, Héroes del 41, Nuevos Horizontes, 28 de Febrero, 16 de Junio, Alcazar del Suburbio. Dios Patria y Libertad, Batallón del Suburbio (mz. 988 a 992; 1468; 1470 a 1493; 1555, 1556, y 1558). Acción Civismo y Libertad, 13 de Julio, Guayaquil Hospitalario. Calle 38ava. entre FranciscoSegura hasta Santa Isabel F. Calle C Mocache entre 43ava. y 36ava. Calle 36ava. desde Santa Isabel F hasta calle CH Paltas."
+    },
+    {
+        "Id": 26,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "08:00 a 10:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calle 29ava. y la F.Francisco Seguray 28ava. Oriente 2611 y 29ava. La 25ava y Oriente, Callejón Parra,Santa Lucía G. Campamento Senagua, km. 24 al Km. 28 vía a La Costa, Urbanización Villa Blanca 1 y 6, Urbanización Ciudad Satélite Los Ángeles, Valle Alto Londres. Proexpo S.A. Lotización San Gerónimo 1 y 2, Vía a la Costa desde el km. 21 al km. 29.5 junto a los terrenos de SENAGUA, entrada de la EstaciónTerrena (hasta el fondo). Urbanización Villas El Bosque, Hacienda Claudina, Urbaquil, Casa del Lago, Parque Lago. Complemento San Pedro de Chongón. Lotización San Gerónimo 1, Urbaquil, Ciudadela Ciudad Olimpo, San Pedro de Chongón, Urbanización Bella Vita 1 y 2, Urbanización Boquetto. Cooperativas El Colibrí 1 y 2. Ciudadelas Paseo del Sol 1 a 5, Villa Geranios 1 a 4, Rosedal 1 y 2, Complemento San Pedro de Chongón, Villa Blanca 2 a 5."
+    },
+    {
+        "Id": 27,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "08:00 a 10:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Retiro del Colegio Javier, La Quinta, Los Ficus, Academia Logos.Cooperativas Puerto Rico,24 de Mayo. Urbanizaciones Vía Al Sol, Terranostra,Punta Esmeralda. Ciudadelas Puerto Seymour,Arcadia. Empagran S.A.,Vía la Costa desde el km. 12.6 hasta el km. 17.2, Cuartel del GIR. Urbanización Valle Alto, Costa Real, Oporto, Costa Brisa. Algarrobos,Lotización San Vicente, Casas Viejas, Hacienda Soledad, Colegio Sek. Complejo de Ingenieros Industriales, entrada al Eródromo-Camaroneras, Calmosa, Indami, Real Lamar, Ecuaglas. Costalmar, Vista Horizonte, Milano, SaraPatricia, Comité Las Américas, Nueva Esperanza, Casas Viejas. Electroquil, Vía la Costa desde el km. 17.5 hasta el km. 21.5."
+    },
+    {
+        "Id": 28,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "08:00 a 10:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Puerto Hondo, Nueva Esperanza (Norte),Cenest, Rocafuerte Fc, Colegio Logos. Cooperativa 24 de Mayo,Campamento Prefectura, Hormigonera,Ferrisariato,Rambla. Urbanización Porto Alegre 1, IDE, Nueva Zelanda, Laguna Plaza, Vía la Costa desde el km. 12.5 hasta el km. 17.5. Lotización San Vicente, Costa Sol, Colegio Mariuxi, Ciudadela Nueva Vida 1. HolcimEcuador, Precreto, Reysac, Cobre, Cuartel Policial GIR. Urbanización Puerto Azul, Trovit,Blue Village, Camino Real. Colinas del Bosque, Bosques de la Costa, Independiente del Valle, Puerta del Sol. Urbanización Casa Club 2, Porto Vita, Cantera, Torres del Salado, Laguna Club. Porto Fino 1 y 2, Blue Cost. Portal al Sol 1 al 4, frente a Laguna Club, Plaza Colonia. Plaza Colonia, Urbanización Belo Horizonte 1 al 9."
+    },
+    {
+        "Id": 29,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "11:00 a 13:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Comisión de Tránsito del Guayas, TERMINAL TERRESTRE. Garzota 7 (mz. 139, 160, 167, 200. AEROPUERTO. Garzota 6 (mz. 109 a 114; 117 a 119). Ciudadela Simón Bolívar (mz. 15 a 19; 26 a 44; 51, 60, 61, 63, 159). Edificio Equilibrium, Plaza del Sol, Adace. Cooperativas 26 de Febrero etapas 1 y 2, Buenos Aires, Las Rocas, Hijos del Suelo, Colinas de Mapasingue 2, Antonio Bermúdez, 24 de Octubre. Mapasingue Este desde Avenida Primera hasta Avenida Tercera, y, desde Avenida Martha Bucaram de Roldóshasta calle doctor Jorge Maldonado. Cooperativas 11 de Febrero, La Esperanza, Justicia y Libertad, El Cóndor, Mirador de Mapasingue, Corazón de la Patria, Jaime Polit, El Prado, Colinas de la Martha de Roldós, Cordillera del Cóndor, Colinas de Urdenor, Luz de América, 14 de Febrero, Brisas de Mapasingue, Primero de Mayo B, El Madrigal, 7 de Septiembre - Mapasingue (mz. 18), Avenida Segunda."
+    },
+    {
+        "Id": 30,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "11:00 a 13:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Avenida Carlos Julio Arosemenadesde el km. 2.5 hasta km. 4.5. Ciudadelas El Paraíso, Cogra, Lomas De Bim Bam Bum, Los Balcones. Colegio 28 de Mayo. Urbanización Alta Gracia. Centro Comercial Aventura Plaza, Centro Comercial Albán Borja, Universidad Santa María. Trinipuerto, Cooperativas Nuevo Ecuador 1, 2 y 3, Siempre en la lucha, Américo Vespucio 2, Las Mercedes (Sur), 7 de Octubre, Patria Nueva (Sur), Eloy Alfaro (Trinitaria), Nuevo Rumbo, Antonio Neumane, San Cristóbal, El Edén, 29 de Abril, El Gran Chaparral, Enrique Gordillo, Monseñor Leónidas Proaño, 4 De Septiembre, 6 de Noviembre, Costa de Marfil, Luchar y Vencer, 12 de Mayo, Los Ángeles, 12 de Octubre, Vencer o Morir 2, Popeye, Polo sur, Un techo para los Pobres, Camino al Sol, Naciones Unidas, Vencer o Morir,El Diamante, 4 De Septiembre (sector Este)."
+    },
+    {
+        "Id": 31,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "11:00 a 13:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Américo Vespucio, República Cuba, Che Guevara, Nueva Guayaquil, Nelson Mandela I y II, Antártida, Monseñor Leónidas Proaño, 4 de Septiembre (sector oeste), Los Ángeles, 25 de Julio, Jacobo Bucaram, Los Olivos (Sur), Al fin unidos todos venceremos, Ángel Duarte, Madrigal, 16 de Mayo, Independencia I y II, Brisas del Salado, Brisas del salado 2, 4 de Marzo, Jacobito Bucaram, Mélida Zalamea, Madrigal, 16 de Mayo,Desarrollo Comunal, Desarrollo Comunal 1 y 2, Zalathiel Toral,Nueva Ciudad. Cooperativas 12 de Mayo, 15 de diciembre, Luz de América, Vencer o Morir 2 y 3, La Fuerza de los Pobres, 6 de Noviembre, Andrés Quiñonez, Valladolid, Pedro Fonda, Los Ángeles 2, Valladolid, Andrés Quiñones 2, Isla del Valle, El Paraiso, 3 de Mayo,22 de Abril."
+    },
+    {
+        "Id": 32,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "04:00 a 06:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Ciudadela Guayacanes 4. Ciudadela Guayacanes 2 (mz. 74, 75; 84 a 87; 535). Guayacanes 3, Guayacanes 4 (mz. 192, 203, 215, 215). Guayacanes 5. Sauces 3, Sauces 5, Sauces 9 (mz. R1 a R5; F-514 a F-518; F-540 a F-556). Acuarela del Rio, Brisas del Rio 1, El Limonal, Cooperativa Médica Guayas, Conjunto Residencial María Beatriz, Juan Pablo 2 junto a la CTG del lado de Terminal Pascuales. Ciudadelas Guayacanes 1 (mz. 69, 70, 531), Guayacanes 2 (mz. 34 a 37; 52, y 72). ). Abdón Calderón. Alborada 10 (mz. 451, 452; 456 a 460; 465 a 469; 472, 487, 488, 496). Alborada11. Sauces 6 (mz. 1512, 1572, 1569, 1570, 1572; 1593 a 1596; 1798 a 1806; 1813, 1814.) Sauces 8 (mz. 454F-1 a 454F-12; 454F-23 a 454F-25; 454F-44 a 454F-50; F494, F500, F505, F506; F510 a F512)."
+    },
+    {
+        "Id": 33,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "04:00 a 06:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Ciudadela Sauces 6, Sauces 9 (mz. R6 a R13; R50, R51; L-2; L11, L12; F520 a F540). Guayacanes 1 (mz. 70, 2040). Guayacanes 2 (mz. 52, y 73A). Ciudadela Guayacanes 2 (mz. 76 a 83; 88, y 89). Sauces 4, Brisas del Norte, Juan Pablo 1. Ciudadela Guayacanes 1, parte de Guayacanes 2 (mz. 38 a 50; 73, y 74). Polaris. Samanes 1, Samanes 2, Samanes 4, Samanes 5, Conjunto Residencial Elizabeth 4. Vía a Daule desde el km. 22 hasta km. 19. El Campo Chino, Recinto Safando, Country Club del Guayas, Ciudad Santiago, Costera del Río, Eloy Alfaro (Daule), Los Ángeles, San Francisco 1 a 10. El Chorrillo, Germania 2, La Germania."
+    },
+    {
+        "Id": 34,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "04:00 a 06:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Vía a Daule desde el km. 22 hasta km. 26. Cooperativas Los Pinos. Nueva Victoria 1 y 2 Lago de Capeira, Sindanoy 1, Santa Catalina, Las Mercedes. Zoológico El Pantanal, Lagos de Daule, San José Obrero. Centro de Distribución TIA. Beata Mercedes Molina, Beata Mercedes Molina 9-10, Portón de la Beata, vía a Daule km.16.5 hasta sector de la cervecería Pb. Calle Pascuales, Intaco, calle 10, calle Acero. Sector Buenavista, Vía a Daule km. 14.5 hasta km. 16.5. Cooperativas 5 Diciembre 1 y 2, El Encanto. Km. 16.5 vía Daule hasta el km. 15 por las empresas Mabe, Alpina, Hunter, Perpacific, Colgate-Palmolive, Plásticos Soria, Las Vegas."
+    },
+    {
+        "Id": 35,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "03:00 a 05:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Avenida Los Linderos desde la Avenida Primera hasta la Séptima. Avenida Miraflores desde calle Cuarta hasta calle Novena. Urdesa Central calle Las Acacias desde Costanera hasta las Monjas, Laureles, Jiguas, Ilanes, Higueras, Guayacanes, Ficus, Dátiles, Bálsamos,Calle Quinta. El Universo, Molinos del Ecuador. Ciudadela 9 de Octubre (mz. 24 a la 36, y 45 a la 72). Pradera I (mz. A-1a la A-6; B-1a la B-6;C-1 a la C-5; D-1 a la D-10; 27, 628, 629, 709, 637, 638, 647 y 662). Ciudadela Pradera II, Pradera III. Los Tulipanes, Urbasur, Barrio Cuba manzana 46. Ciudadela Los Almendros, Barrio Cuba, parte de la Ciudadela 9 de Octubre y La Saiba. Mercado Caraguay, Guayasur, Limonar. Cooperativas Los Ángeles, Unidos para Vencer, Puntilla del Centro, Atahualpa (S), Los Mangles, Patria y Libertad, 25 de Enero, Jaime Galarza, Miramar,Lorenzo Tous, Pablo Neruda, Carlos Cevallos, Esclusas."
+    },
+    {
+        "Id": 36,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "03:00 a 05:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Nueva Granada, Nueva Ideal, 12 de Septiembre, 1 de Agosto, Base 1 de Agosto, Lucha Popular, Carlos Castro 2, Hogar de los Pobres, 5 de Octubre, Unión de Bananero Etapas 1, 2 y 3, Reina del Quinche 2, Juan Péndola, Virgen de Monserrat. Cooperativas 25 de Enero 1 y 2, Luchar y Vencer, 1 Marzo, Islas Galápagos, Centro Cívico, 25 de Junio, 1 de Mayo Independiente, 24 de Mayo, 5 de Agosto, 10 de Agosto, Unión Cívica, Dios Da para Todos, Rivera del Guayas, Juan X Marcos, Brisas del Guayas, 8 de Marzo, Pradera, Los Cipreses, Eugenio Espejo junto a Ecuagram. Cooperativas Rio Guayas, Los Jazmines, Floresta 2 y 3. 7 Laguitos, Los Laureles, 7 Lagos, Casita del Guasmo, Los Tulipanes, 13 de Febrero. Avenida Adolfo H. Simonds, Avenida Abdón Calderón. Cooperativas Los Ángeles (S), 1 de Mayo, El Pedregal, Nuevos Horizontes, Pedregal, Unión y Progreso, Paquisha, Centinela del Barrio Molina de Frank, Unión de Bananeros (etapas del 1 al 6), 25 de Julio (S)."
+    },
+    {
+        "Id": 37,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "03:00 a 05:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "La Floresta 1, Cooperativas Los Vergeles (S), Nueva Granda, Centinela del Guasmo, Carlos Castro, Nueva Ideal, 7 de Septiembre, 8 de Septiembre, La Esperanza, Ciudad de Venecia, Fundación de Guayaquil, 19 de Agosto,Perla del Sur, 27 de Junio, 3 de Noviembre. Cooperativa Independencia, parte de Floresta 1, Las Tejas, Los Últimos Seremos Primeros, Nueva Guayaquil, Santa Martha. Ciudadelas Centenario Sur, Centenario, La Saiba, General Villamil, Los Delfines, Samuel Gómez, Los Delfines, Albán Borja, Granada, Primaveras, La Ronda."
+    },
+    {
+        "Id": 38,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "07:00 a 09:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Ciudadela Miraflores, Avenida El Salado, Avenida Central, Avenida Las Palmas. Urdesa Central, Las Monjas, Las Acacias, Costanera A y B, Mirtos, Jorge Pérez Concha, Bálsamos, Laureles, Avenida Guayas, Jiguas, Ilanes, Higueras, Circunvalación Sur, Guayacanes, Ficus. Mapasingue Este, Federación Deportiva del Guayas. Cooperativas Quisquis, Feraud Blum. Precooperativa Cordillera del Cóndor. Urdesa calle Primera, Ficus, calle Quinta, Avenida Las Aguas, Lomas de Urdesa, Portón de las Lomas, calle Guayacanes hasta el Colegio Santo Domingo de Guzmán. Urdesa Central, Avenida Primera Ilanes, Lomas, Guayacanes desde la calle Primera hasta la Quinta, Ficus, Laureles, Las Aguas, Costanera, Alianza."
+    },
+    {
+        "Id": 39,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "07:00 a 09:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Avenida del Ejército, Piedrahita. Manuel Galecio desde García Moreno hasta Esmeraldas. Luis Urdaneta, Primero de Mayo, Coronel, Luis Vernaza, Los Ríos, Padre Solano. Piedrahita hasta avenida 9 de Octubre. Avenida Machala hasta Escobedo. Calles Boyacá entre Vélez hasta Padre Aguirre. Junín, Luis Urdaneta, Escobedo Calles Boyacá, Piedrahita, Vélez, Escobedo, Junín, General Córdova, 9 de Octubre. FranciscoSegura desde calle 11 hasta El Estero Puerto Liza. Calles 26ava. y 24ava. Calle Domingo Norero. Cooperativas El Cisne (mz. 668 a 684; 722 a 740; 783 a 787; 1210, 1211, 1212). San Lorenzo, Iris, 13 de Febrero, El Cisne 2."
+    },
+    {
+        "Id": 40,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "17:00 a 19:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Estero Salado,Calle B, GómezRendón, 36ava, Samuel Torres,Calle 37, RosendoAvilés. Maracaibo desde la 44ava. hasta la 33ava. Calle 38ava. desde Sedalana hasta Portete. Calle 36ava. Manuel Torres, Brasil, Portete, la 30, calle A, 29ava Assad Bucaram, calle CH Paltas, Gómez Rendón, 31ava, callejón C hasta Letamendi, calle García Goyena. Junta de Beneficencia, Estadio Barcelona, Los Miradores, Ciudad Deportiva Pérez Perasso, Virgen del Cisne, Cooperativa 25 de Julio. Calles Cuenca desde 36va Manuel Torres a la 17 y por la calle 18 hasta Alcedo. Huancavilca hasta Nicolás Segovia. Ismael Pérez Pazmiño,10 de Agosto, Cuenca, GómezRendón, Asisclo Garay."
+    },
+    {
+        "Id": 41,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "17:00 a 19:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "GómezRendón a la calle 22 y avanza a Portete. Portete desde la calle 24 hasta la 29. La 37ava. Antonio Flores, Décima Santa Elena, Segundo callejón Alianza, Brasil, 36ava. Manuel Torres, Argentina, 11ava Federico Godín. Puerto Lisa (mz. 1 a 11; 21, 22; 100 a 116; 148 a 155; 309 a 314; 320 a 332). Calle Cuenca hasta la 25, sigue por GómezRendón hasta Víctor Hugo Briones. La 36ava. Manuel Torres, Los Ríos, Medardo Ángel Silva, Argentina, Letamendi, San Martín, Capitán Nájera, Vicente Maldonado."
+    },
+    {
+        "Id": 42,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "18:00 a 20:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Unión de los pobres, César A. Sandino 3, Guasmo Libre, Derecho de los pobres (mz. 3225, 3241). Reino del Quinche 2 (mz. 3070 a 3073; 3076 a 3079; 3084). Francisco de Orellana, Rosa Aguilera, 12 de Octubre (Sur), César A.Sandino Stranfruco, Zofragua. Unión de Bananeros segunda etapa (mz. 2785 a 2793), Necesidad de un techo (mz. 18, 19, 20, 29). Cooperativas Derecho de los pobres, Mariuxi Febres Cordero 1, Centro de Capacitación Artesanal, César A. Sandino 2, Julio Potes, Eloy Alfaro (Sur), Luis Chiriboga, Martha Bucaram, Florida 2, 10 Agosto, 26 de Abril, Guayas y Quil 2, Amazonas 2."
+    },
+    {
+        "Id": 43,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "18:00 a 20:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Guayaquil por Guayaquil, Sur, Vivienda de la Armada, Las Palmas, Las Brisas junto a Transelectric, Assad Bucaram, Unión de los pobres, Pueblo Unido, 9 de Abril, César A. Sandino 4. Ciudadela 9 de Octubre, Brisas del Salado, Estrella de Octubre, Distón Preciado. Base Naval Sur y Autoridad Portuaria. Ciudadelas Los Esteros (mz. 15A2, 16A, 16A2, 20A, 21A), Los Esteros 1, Los Esteros 2 (mz. 17A, 18A). Cooperativas La Fragata, Santiaguito Roldós (mz. 3128, 5129), Guayaquil Independiente, parte de Coviem, 17 de Septiembre, 25 de Septiembre, 2 de Septiembre, Santiago de Guayaquil 1 y 2, Independiente, Viernes Santos 1 y 2. Estero Popular 2, Coviem (mz. 9, 10, 11; 14 a 19; 22, 23, 24; 27, 28, 29, 32, 35, 38, 41, 44, 62)."
+    },
+    {
+        "Id": 44,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "18:00 a 20:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativa MoránValverde, Condominio Los Jardines. Las Malvinas, Dignidad Popular. Huancavilca Sur,Coviess, Del Maestro, Del IESS,Sopeña (mz. 9 a 16; 23 a 30; 34, 38 y 90). Guangala (mz. E-1 a E-14; E-21; C-1; B-4, B-5, B-6). COVIESS (mz. C1, B6). Coviem desde la calle Pío Jaramillo hasta Avenida Juan León Mera. Ciudadelas del Periodista, Luz del Guayas, Huancavilca (mz. 1 a 17; 28, 58; 128 a 131). Sopeña (mz. 1 a 8; 16 a 22; 31, 32, 35, 39, 91). Cooperativas 24 de Mayo (Sur), Jaime Toral, Esmeraldas Libre, Comando Duro, Los 5 Magníficos, 1 de Septiembre, Mélida Salamea, 25 de Julio. 24 de Mayo,La Paz, Guayaquil Independiente, Rumiñahui, Jacobo Bucaram (Sur)."
+    },
+    {
+        "Id": 45,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "18:00 a 20:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Centro Comercial Mall Del Sur. Ciudadela del IESS,Sopeña (mz. 30, 34). Ciudadela Los Esteros 1 (mz. 1A, 39A a la 44A). Los Esteros 2 (mz. 362, 363, 364). Santiaguito Roldós, Jambelí, Jaime Roldós(Fertisa-mz. 1605 a 1609). Santiago Roldós, 9 de Julio, Santa Mónica (mz. 1540 a 1544; 1563; 1567 a 1570). Santa Martha (mz. 1720, 1721, 1722, 1725). Santa Martha I, Jaime Nebot, Paco Oñate, Guevara Moreno, Los Jardines, Ahorale toca al Pueblo. Colón desde Babahoyo hasta Avenida Quito. José de Antepara desde Ayacucho hasta 10 de Agosto. Alcedo desde Babahoyo hasta Pedro Moncayo. Lizardo García desde 10 de Agosto hasta Ayacucho. Calles Asisclo Garay, Clemente Ballén."
+    },
+    {
+        "Id": 46,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "18:00 a 20:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calles Hurtado, José Mascote, 9 de Octubre, Clemente Ballén, Asisclo Garay, Lizardo García, Avenida del Ejército, calle Vélez. Huancavilca desde Gallegos Lara hasta Esmeraldas. Andrés Marín desde Huancavilca hasta Clemente Ballén. Carchi desde Huancavilca hasta Alcedo. Víctor Hugo Briones desde Capitán Nájera hasta Ayacucho. Malecón del Salado,Puente 5 de Junio, km. 1 Avenida Carlos Julio Arosemena, Ciudadela Ferroviaria. Urdesa Central, Las Monjas, Bálsamos, Costanera, Ébanos, Avenida Todos los Santos, Cedros, Jorge Pérez Concha, Circunvalación Sur. Universidad Católica, La Fuente. María de las Lomas, Sol Naciente, Nueva Esperanza (Norte - Oeste), Los Tigres y los Ciruelos, San Pedro (Norte)."
+    },
+    {
+        "Id": 47,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "18:00 a 20:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Ciudadelas Universitaria, Bolivariana, Kennedy Vieja (mz 23), Orellana (mz. 66, 67, 68, 71, 75, 78, 79). Av. 9 de Octubre, Tungurahua, Lizardo García, Aguirre, Asisclo Garay,Hurtado, Luque. Primero de Mayo desde Tungurahua hasta Los Ríos, calle Luis Vernaza. Calles Clemente Ballén y Tulcán. Calles Aguirre, Luque, Lorenzo de Garaycoa, Sucre, 9 de Octubre, Rumichaca, Asisclo Garay,José de Antepara, Pedro Moncayo,García Avilés, 10 de Agosto. Calles 10 de Agosto,Garay,Avenida Barcelona, Colón, Sucre. Ciudadela Bellavista, Avenida Carlos Julio Arosemena(Urbanización Vista Grande). Ventura, Edificio Hamburgo, Los Balcones, La Costeñita, Celoplast, Hermitage, Base Naval San Eduardo, Vista Alegre."
+    },
+    {
+        "Id": 48,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "22:00 a 00:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Abanico, La Chala, Calle 11ava. desde Cristóbal Colón hasta Portete. Gallegos Lara desde Bolivia hasta Venezuela. 4 de Noviembre desde callejón 13 hasta Leónidas Plaza. Cristóbal Colón desde la 11ava. hasta Leónidas Plaza. Sedalana hasta la 10ma. Parte de la Cooperativa Mayaycu. Cooperativas Multipropósito El Fortín, Cordillera del Cóndor 2. Fortín de la Florbloques 1 al 12. Balerio Estacio etapa 7, 7B y 8. Horizontes del Fortínbloque 1 lámina 1, parte de Horizontes del Fortín bloque 3 lámina 1 y lámina 2. Guerreros del Fortín 1 lámina 1 y lámina 2. Nueva Prosperina lámina 10-2. Nueva Prosperina bloque 9."
+    },
+    {
+        "Id": 49,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "22:00 a 00:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Hogarde Cristo, Padre Alberto Hurtado (sector Este). Cooperativas Sergio Toral bloques 1, 2, 3, 4 y 5. Florde Bastión bloques 10, 20 y 21. Florde Bastión bloque 1A. Florde Bastión bloque 5 etapa 3. Flor de Bastión bloque 6 etapas 1, 3, 4, 5, y 6. Florde Bastión bloque 22 láminas 1, 2 y 4. Florde Bastión bloque 23 lámina 3. María Auxiliadora, Ecojardín etapas 1-1A. Ecocity, Ecobosque 2-2A. Paraíso de La Florbloque 1B. La Carolina del 1 al 4, Santa Mariana. Ciudad Victoria 1 al 8, Divino Niño etapa 1. Violeta Luna Carrera, Tierra Nueva, Monte Sinaí 1, El Ensueño, Cañaveral, Renacer de Dios."
+    },
+    {
+        "Id": 50,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "22:00 a 00:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "El Bosque, San Vicente, Bellavista, Manguito, Las Palmas. Sergio Toral 3 junto a El Cordón Cooperativas Los Peñuelos, San Ignacio Loyola.Nueva Prosperina lámina 5. Reynaldo Quiñonez, Monte Sinaí 4, Janeth Toral 1, 2 y 3. Estrella de Octubre, Alborruta."
+    },
+    {
+        "Id": 51,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "06:00 a 08:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Ciudadelas Centenario Sur,Centenario, La Saiba, General Villamil, Los Delfines. Samuel Gómez,Albán Borja, Granada, Primaveras, La Ronda. Calles Oriente, Esmeraldas, Vicente Trujillo, Aurelio Carrera, Avenida 25 de Julio, Avenida La Saiba. Calles Venezuela, Oriente, Esmeraldas, Guaranda, Rosendo Avilés, Bolivia, García Moreno, Lorenzo de Garaycoa, Francisco Segura, Antepara, Chambers, Avenida 25 de Julio, J. Salcedo. Naval Sur, Las Américas, Del Seguro Cuenca, Capitán Nájera, Lizardo García, Colombia, Avenida Quito. Esmeraldas desde Huancavilca hasta O´Connor. Calles Guaranda, General Gómez,Maracaibo, Venezuela."
+    },
+    {
+        "Id": 52,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "06:00 a 08:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calles Esmeraldas, Tulcán, Chambers, Colombia, Abel Castillo, Gómez Rendón, Francisco Segura, 11ava. Federico Godín, San Martín, Abel Castillo, Guerrero Martínez, Portete, 4 de Noviembre. Francisco Segura, Esmeraldas, Avenida del Ejército, Michael O´Connor, General Gómez, Maracaibo, José Mascote, Avenida Machala, Bolivia, Avenida Quito, Camilo Destruge, José Mascote, García Moreno. Ciudadelas Las Acacias 1, 2 y 3. Rumiñahui, Progresista, Guangala. Cooperativas Esmeraldas Chiquita, 18 de Agosto, Eloy Alfaro, Assad Bucaram 1 y 2, Nueva Venecia, Cristina Ponguillo, Bloques de las Acacias, Autoridad Portuaria, Jaime Roldós, Alameda, Vargas Torres, Techo para Todos,Los Claveles 1 y 2, Los Palestinos, COVIESS (mz. A-3, A-2,B-2, 59). Calle Esmeraldas desde Francisco Segurahasta calle A."
+    },
+    {
+        "Id": 53,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "06:00 a 08:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Barrio Cuba, Viviendas BarrioCuba. Avenida 25 de Julio, Francisco Segura, Esmeraldas, Rosa Borja de Icaza, General Robles, Oriente, Habana, México, Maracaibo, Vicente Trujillo, El Oro. Parte del Centenario. Lizardo García, Tulcán, Oriente, Cristóbal Colón, Chávez Franco, Leónidas Plaza, calle F, Robles Chambers, Orilla del Estero Puerto Liza, Puerto del Muerto, callejón Parra, calle Décima, José Mascote, Esmeraldas."
+    },
+    {
+        "Id": 54,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "19:00 a 21:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Murallas del Norte,Prosperina (Norte), Avenida Camilo Ponce, Avenida Novenahasta Eduardo Solá. Complejo Judicial Guayaquil Norte. Cooperativas La Florida Norte, Unidad Nacional 1 (mz. 368, 369), Patria Nueva, Unidos Somos Más (mz. 384, 385). Prosperina, Lotización La Florida (mz. 346, 347, 348, 352), Murallas del Norte, Prosperina (mz. 18, 19, 25, 26). El Prado (mz. 11, 12,16, 19, 22), San Carlos. Cooperativas 31 de Agosto, Santa Eufracia, Multi-Producto, 29 de Abril (Norte), 12 de Octubre, 4 de Diciembre, 11 de Agosto, María Eugenia Cordovez. 6 de Marzo Prosperina, 7 de Julio Prosperina, Jaime Roldós Prosperina, parte de El Cóndor Prosperina, 14 de Agosto,parte de cooperativa 9 de Enero. Cartones Nacionales S.A."
+    },
+    {
+        "Id": 55,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "19:00 a 21:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "El Prado (mz. 23, 18, 17, 11), El Cóndor Prosperina. Gallegos Lara, Amazonas Libre, Los Comandos, Manuela Cañizares, Francisco Jácome, Lotización La Florida, Bello Horizonte, Pancho Jácome B, Nueva Jerusalén 1 y 2, El Retiro, Sultana de los Andes, Paraíso del Pueblo, Fortaleza, Simón Bolívar, 8 de Julio Cofimar S.A,Grupo de Operaciones Especiales GOE. El Prado (mz. 4, 5 , 6, 8, 10, 11, 15, 20, 21), Los Ángeles (Norte), Buenos Aires, Asociación Comercial, junto a Iván Bohman. Cooperativa 26 de Febrero etapa 1 (mz. 18, 182, 189), Prosperina (Unicol, Colegio Dolores Sucre), Colegio de Asunción. Celoplast, Colinas del Hipódromo, Cooperativa 9 de Enero, Santa Adriana A mz. 14."
+    },
+    {
+        "Id": 56,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "19:00 a 21:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Alborada 1 (mz. 1; 15 a 23; 30 a 34). Alborada 4 (mz. 91 a 109; 133, 134 y 137), sector norte Alborada 5, sector sur Alborada 9. Sector sur Sauces 1, Sauces 2 (mz.1289 a 1308). Garzota 3."
+    },
+    {
+        "Id": 57,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "16:00 a 18:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Edificio The Point, Emporium, Edificio Bellini, Puerto Santa Ana. Edificio River Front,Puerto Santa Ana \"Ciudad del Río\". Sector residencial Cerros del Carmen y Santa Ana. Calles Morán Buitrón, Rocafuerte, Julián Coronel. ESPOL (Peñas). Cooperativa 24 de Agosto, Urbanización Río Guayas Club, Base Naval Norte, Santa Leonor, Ciudadela FAE (mz. 17, 18 y 30), Mi Comisariato,ITB. Rumichaca desde Ayacucho hasta Luque. 9 de octubre, García Avilés. Ayacucho desde Lorenzo de Garaycoa hasta Cacique Álvarez. Calle Aguirre. Calle Boyacá desde Avenida 9 de Octubre hasta Ayacucho. Escobedo desde 9 de Octubre hasta 10 de Agosto. Colón desde Noguchi hasta Chimborazo. 10 de Agosto desde Lorenzo de Garaycoa hasta Chimborazo. Calixto Romerodesde Noguchi hasta Chimborazo."
+    },
+    {
+        "Id": 58,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "16:00 a 18:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Capitán Nájera desde 6 de Marzo hasta Coronel. Coronel desde Febres Cordero hasta Ayacucho. Chimborazo desde Olmedo hasta Avenida 9 de Octubre. Chile desde Clemente Ballén hasta Avenida 9 de Octubre. Aguirre desde Escobedo hasta Pichincha. Manabí desde Cacique Álvarez hasta Eloy Alfaro.Registro Civil. Seis de Marzo desde Sucre hasta Huancavilca. Lorenzo de Garaycoa desde Pedro Pablo Gómez hasta Manabí."
+    },
+    {
+        "Id": 59,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "02:00 a 04:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Calle Aguirre, Manabí, Chimborazo, Malecón Simón Bolívar, Olmedo, Ayacucho, Boyacá, Coronel. Sucre desde García Avilés hasta Malecón Simón Bolívar. Calle Franco Dávila. Pichincha desde Aguirre hasta Colón, calle Villamil. Municipio de Guayaquil. Pichincha desde 9 de Octubre hasta 10 de Agosto. Chile, Luque, Pedro Carbo, Pichincha. Chimborazo desde Clemente Ballén hasta Ayacucho. Coronel, Malecón Simón Bolívar,calle Aguirre. Gobernación Centrum, Telerama, Condomino Jardines, Diners. Cooperativas 4 de Marzo (mz. 2214 a 2217; 2219, 2220). San Francisco. Centro Comercial San Felipe. Santa Beatriz, Santa Adriana (mz. 1, 2, 3, 19, 20), parte de cooperativa Lomas de la Prosperina. Academia Naval A. Illingworth. Industrias Ales."
+    },
+    {
+        "Id": 60,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "13:00 a 15:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Desde km. 10.5 hasta el km. 11.6 de la vía a Daule, lado izquierdo. Parque California, parte de Lotización Expogranos. Avenida Los Mangos \"A\" hasta la Vía Daule. Bastión Popular Bloque 1A, Bastión Popular 2, Bastión Popular Bloque 1B (mz. 475, 478, 482 y 484). Santa Teresa (mz. 87, 1300, 1301), Los Ranchos (Parte Sur), Bastión Mediano, Olmedo Arroba Espinoza, El Trébol, Lotización Industrial Inmaconsa. Cooperativas Hogar Nazaret, Fortaleza 2, Fortaleza, Nuevo Conquistador, Paraiso del Pueblo, Las Palmeras 1, Nueva Generación. Inmaconsa 2 manzana 40 Cooperativa 4 de Marzo, Academia Naval A. Illingworth, Industrias Ales, Cooperativa San Francisco, Centro Comercial San Felipe, Santa Beatriz, Parte de Cooperativa Lomasde la Prosperina. Avenida Juan Montalvo desde vía a Daule entre Cooperativa 4 de Marzo, Vencedores 8 de Mayo, La Gaviota."
+    },
+    {
+        "Id": 61,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "13:00 a 15:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativa Colinas de la Florida, Patria Nueva, Unidad Nacional (mz. 365 a 367). Pancho Jácome B (mz. 261; 324 a 331; 358 a 364). FloridaNorte(mz. 401 a 409). Fuerte Militar Quinto Guayas, Expogranos, Monseñor Leónidas Proaño, Cooperativas 2 de Julio, Belén del Norte, Unidad Nacional, Voluntad de Dios, Parte de la Cooperativa 8 de Julio, parte de la Cooperativa Recreo 1, Cooperativa Pancho Jácome 1. Cooperativa 3 de Diciembre, Julio Cartagena, Ficoa de Juan Montalvo, Jaime Nebot, Lotes con Servicio Alegría. Urbanización San Felipe, Bilba. Cooperativa Vencedores 8 de Mayo (mz. 2171 a 2185), Pastor Vera (mz. 1981, 1982, 1987, 1988, 1993, 1994, 1999, 2000). Lotización Inmaconsa, REGISTROCIVIL Agencia de Peca, Quimicamp, Canchón de la C.T.G. Sumesa, Maquinaria Industrial Guayas, Grupasa, Indurama, Cooperativa Asociación Simón Bolívar, Colegio Leónidas García, Pinturas S.A,LaboratorioGalo Franco,Magreb S.A.,Ecuaquimica, Comisión de Tránsito."
+    },
+    {
+        "Id": 62,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "10:00 a 12:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas Hogarde Cristo, Padre Alberto Hurtado. Sergio Toral Bloques 1, 2, 3, 4, 5. El Bosque, San Vicente, Bellavista, Manguito, Las Palmas, Sergio Toral 3 por El Cordón, Los Peñuelos, San Ignacio Loyola. Nueva Prosperina L3 y L5. Reynaldo Quiñonez, Monte Sinaí 4. Janeth Toral 1, 2 y 3. Estrella de Octubre, Alborruta. Caminos Reales, Cooperativa 31 de Octubre, Trinidad de Dios, Valle Verde, Las Marías, La Castellana, Ribera del Arbolito, 3 Bocas, Voluntad de Dios (Ms), Valle Hermoso, Monte Lindo, Los Tubos Monte Lindo, Monte Sinaí, María Paidar, Casa Alta, Cien Fuegos Ebenezer, Cerro Porteño, Arco Iris, 3 Hermanos, Valle del Cerro Azul, Hugo Ortiz, Águila de Sinaí, Triangulo de Sinaí, Canelar Olguita lámina 1, lámina 2-1 y lámina 2 -2. Promesa de Dios, Cooperativa 26 de Agosto, Ciudad de Dios Etapas 1 a 4, Divino Niño Etapa 3, Renacer de Dios, Tierra Prometida, Poder de Dios Etapas 1 y 2, Cañaveral, Sergio Toral 3, Elvira Leonor, Arrocera de las Villas Etapas 4 a la 7, El Ensueño 2, El Hanam, Aposeidad de Dios, Tierra Prometida, ciudad de Dios etapas 1 al 4, Valle del Norte. Cooperativa Nueva Prosperina L3 y L6. SocioVivienda 1 y 2. Tendido Eléctrico 1."
+    },
+    {
+        "Id": 63,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "10:00 a 12:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Cooperativas El Sol, Thalía Toral I, Thalía Toral II, Las Palmeras junto a Voluntad de Dios, Voluntad de Dios, Los Almendros, Camila, Promesa de Dios, Los Juanes Bloque 10, San Alejo, Realidad de Dios, Bosque Protector Papagayo. Parte de los Rosales I, Parte de la Cooperativa Colinas del Samán 2, Cooperativa Estrella de Belén, Parte de la Cooperativa Juan Montalvo, Parte de la Cooperativa San Francisco. Cooperativa Voluntad De Dios (N), Unión Cívica 1 y 2, parte de la Cooperativa Carlos Magno Andrade. Adesdac (mz. 54, 59, 60, 62, 63, 64, 67, 68), parte de Colinas del Samán II, La Concordia, parte de la Cooperativa Juan Montalvo, parte de la Cooperativa San Francisco, Pastor Vera, Luchadores Del Norte, Lotes con Servicio Alegría (mz. 1500 a la 1518; 1577, 1579, 1532). Ciudadela Samanes 7, Adesdac (mz. 50 a 53; 56, 57, 60, 61; 64 a 66; 70). Cooperativa Carlos Magno Andrade (mz. 2311 a 2313, 2317a 2319), Conjunto Residencial Santa Ana. Los Vergeles, Trébol, María Rubio, Ciudadela Samanes 7 (mz. 2215 a 2218), Ciudadela Estrella de Mar, Río del Sol, Huancavilca Ciudad del Norte."
+    },
+    {
+        "Id": 64,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "10:00 a 12:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "Parte de la Urbanización Rosales 1 y 2, Parte de la Cooperativa Colinas de la Alborada,. Pueblo y su Reino, Luchadores del Norte,Luchadores del NorteBloque 2, Brisas del Norte,El Ceibal. Pájaro Azul, Mirador del Norte, Schoenstatt, Santorini, Santorini Etapas 8-9, Cooperativa Julio Cartagena, Lotización Satirión (mz. 101, 102, 106, 107,108, 112, 114, 115, 116, 117). Urbanización Los Rosales I, Goleta Alcance, Justicia Social, Los Shyris, Madrid (N), Francisco de Orellana (N), El Cóndor (N), Parte de Colinas de la Alborada, Los Álamos 3. Ciudadela Samanes I (mz. 101 a la 104), Samanes II (mz. 201, 215, 904, 953, 962, 971, 981 Y 982), Samanes 3 (mz.302 a la 311), Samanes 4. Ciudadela Samanes III (mz. 14-6 a la 14-8 ), Alborada 13, Alborada 14, Abdón Calderón (mz. 1202, 1203, 1190, 1191), Polaris (mz. 9 a la 14 ), Sauces 8."
+    },
+    {
+        "Id": 65,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "12:00 a 18:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "NATURISAY SONGA"
+    },
+    {
+        "Id": 66,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "12:00 a 18:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "SHOPPING PLAYAS"
+    },
+    {
+        "Id": 67,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "03:00 a 05:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "FADESA, LA FABRIL, LATIENVASES, PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES NTERAGUA PRADERA, RIOCENTRO SUR."
+    },
+    {
+        "Id": 68,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "13:00 a 15:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "MALL EL FORTIN,INCABLE, COFIMAR, HIPER MARKET DAULE, PICA, THE TESALIA SPRINGSCOMPANY."
+    },
+    {
+        "Id": 69,
+        "finicio": "lunes 16 de diciembre 2024",
+        "ffin": "jueves 19 de diciembre 2024",
+        "horario": "10:00 a 12:00",
+        "canton": "GUAYAQUIL",
+        "sectores": "ESPOL, MOLINOSCHAMPION, PLÁSTICOS ECUATORIANOS,RIOCENTRO NORTE."
+    }
+]
