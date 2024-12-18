@@ -11,10 +11,22 @@ for (let box of boxes) {
     let subtitle = box.querySelectorAll('.subtitle')[0].innerHTML
     let rating = parseFloat(box.querySelectorAll('.rating span')[0].innerHTML)
     let country = box.querySelectorAll('.text span')[0].innerHTML
+
     let iconicElement = box.querySelectorAll('.content-bottom .text')
     let iconic = iconicElement.length > 0 ? iconicElement[0].innerText : ""
 
-    dishes.push({"position":order, "title": title, "subtitle": subtitle, "rating": rating, "country": country, "iconic": iconic})
+    let ingredientsElements = box.querySelectorAll('.ingredient-list a')
+    let ingredientsArray = []
+
+    for(let ingredient of ingredientsElements) {
+        let name = ingredient.getAttribute("href")
+        ingredientsArray.push(name)
+    }
+
+    
+
+
+    dishes.push({"position":order, "title": title, "subtitle": subtitle, "rating": rating, "country": country, "iconic": iconic, "ingredients": ingredientsArray.join(', ')})
 
 }
 
